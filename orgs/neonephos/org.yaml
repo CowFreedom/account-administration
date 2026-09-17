@@ -37,6 +37,7 @@ orgs:
     - christianhuening
     - christianneu
     - ChrisWeissDT
+    - cix-sandmark
     - CowFreedom
     - Fannon
     - fmui
@@ -46,6 +47,7 @@ orgs:
     - kub3anni
     - marc1404
     - maximilianbraun
+    - mkambeck
     - mengliwg
     - nnicora
     - OrlinVasilev
@@ -69,13 +71,12 @@ orgs:
         - CowFreedom
         members:
         - abuango
+        - cix-sandmark
         - rquerio
         - kub3anni
-        - vendoltar
         - AlexandraHaenig
-        - banannadreams
         - robva-00
-        - KateLuzid
+        - mkambeck
         privacy: closed
         repos:
           outreach: maintain
@@ -100,6 +101,14 @@ orgs:
             privacy: closed
             repos:
               outreach: maintain
+          'Outreach: Ambassador':
+            description: Team of the Ambassador SIG of the Outreach Committee.
+            maintainers:
+            - CowFreedom
+            members:
+            - abuango
+            - cix-sandmark
+            privacy: closed
           'Outreach: Merchandise':
             description: Team of the Merchandise subgroup of the Outreach Committee.
             maintainers:
@@ -111,7 +120,7 @@ orgs:
             repos:
               outreach: maintain
           Social Media:
-            description: Team of the Social Media subgroup of the Outreach Committee.
+            description: Team of the Social Media and Marketing subgroup of the Outreach Committee.
             maintainers:
             - CowFreedom
             members:
@@ -169,7 +178,6 @@ orgs:
         - tlakner
         - OrlinVasilev
         - CowFreedom
-        - peter-giese
         - ChrisWeissDT
         - stephanstackit
         privacy: closed
