@@ -73,7 +73,9 @@ orgs:
       Staff:
         description: People considered NNF Staff
         maintainers:
-        - CowFreedom
+        - christianneu
+        - estherrgarcia
+        - AlexandraHaenig
         members:
         - kateluzid
         - kub3anni
